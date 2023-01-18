@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+    color: white;
+    background-color: black;
+    font: 13pt Arial;
+}
+
+h1{
+    text-align: center;
+}
+a:link, a:visited, a:active{
+    color: white;
+    text-decoration: none;
+}
+a.hover{
+    text-decoration: underline;
+}
+p.meio{
+    text-align: center;
+}
+iframe {
+    display: block;
+    margin: auto;
+}
